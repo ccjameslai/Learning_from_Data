@@ -59,3 +59,4 @@ plt.plot(x1[len(w_list)-1], x2, '-')
 
 
 
+
